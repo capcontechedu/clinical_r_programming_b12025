@@ -45,5 +45,7 @@ https://github.com/capcontechedu/clinical_r_programming_b12025.git
 - Run and experiment with the provided scripts to strengthen your understanding.
 
 ----------
-📬 Contact
-For any queries related to the course or materials, please reach out via the official CAPCONTECH in **capcontech.edu@gmail.com**
+## 📬 Contact
+For any queries related to the course or materials, 
+- Please refer to course broucher in this repository.
+- Please reach out via the official CAPCONTECH in **capcontech.edu@gmail.com**.
