@@ -40,7 +40,8 @@ Clone this repository to your local system:
 https://github.com/capcontechedu/clinical_r_programming_b12025.git
 
 - Open the project in RStudio.
-- Follow along with the materials in each module’s folder.
+- Navigate to `course content` folder.
+- open the HTML page in Webpage view.
 - Run and experiment with the provided scripts to strengthen your understanding.
 
 ----------
