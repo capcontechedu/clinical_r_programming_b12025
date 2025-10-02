@@ -37,7 +37,7 @@ At CAPCONTECH, we are committed to enabling professionals to upskill and transit
 
 Clone this repository to your local system:
 
-`git clone https://github.com/<your-username>/<repo-name>.git`
+https://github.com/capcontechedu/clinical_r_programming_b12025.git
 
 - Open the project in RStudio.
 - Follow along with the materials in each module’s folder.
