@@ -67,7 +67,7 @@ Clone this repository to your local system by following below steps:
 - Navigate to `course content` folder, you'll have the materials there
 <img width="250" height="177" alt="image" src="https://github.com/user-attachments/assets/3e5ca8fe-a24a-4b39-8722-4fa41d61fee4" />
 
-- click any of the `.html` material to open in Webpage view.
+- click any of the `.html` material to `view in Web browser`.
 <img width="200" height="231" alt="image" src="https://github.com/user-attachments/assets/19c76c42-707f-4747-b9e3-3791d0ac1ac5" />
 
 - you can copy , run and experiment with the provided scripts to strengthen your understanding.
