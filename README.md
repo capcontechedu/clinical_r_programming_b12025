@@ -38,8 +38,8 @@ At CAPCONTECH, we are committed to enabling professionals to upskill and transit
 Clone this repository to your local system by following below steps:
 
 - Open `git bash` application by searching in your system.
-- you will see a `git terminal window`, Update below code chunk to root your R project directory.
-
+- you will see a `git terminal window`, Update below code chunk to root your R project directory.<br>**Note:** *to copy or paste in `git terminal window` -> `right click your mouse` (keyboard shortcuts won't work in terminal window).*
+  
   ```{bash}
   # set working directory in git bash
   cd <"your R project directory within double quotes"/>
