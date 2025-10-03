@@ -37,14 +37,17 @@ At CAPCONTECH, we are committed to enabling professionals to upskill and transit
 
 Clone this repository to your local system by following below steps:
 
-- Open `git bash` application.
+- Open `git bash` application by searching in your system.
 - Update below code chunk to root your R project directory.
+
   ```{bash}
   # set working directory in git bash
   cd <"your R project directory within double quotes"/>
     # eg: cd "E:\capcontech\batch1_live"
   ```
-  - copy below code as such to copy the materials
+
+  **copy below code as such to copy the materials**
+  
   ```{bash}
   # clone this github repo
   git clone https://github.com/capcontechedu/clinical_r_programming_b12025.git
